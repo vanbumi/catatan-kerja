@@ -21,4 +21,4 @@
 
 ### Menyisipkan gambar
 
-![]()
+![gambar-tangan](https://i0.wp.com/kirim.email/wp-content/uploads/2018/08/Yuk-Belajar-Markdown-Melalui-Tutorial-Berikut-Ini.jpg?fit=1200%2C628&ssl=1)
